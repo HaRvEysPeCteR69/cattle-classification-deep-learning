@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "Cattle Classification System Using Deep Learning"
+type: software
+authors:
+  - family-names: Sharma
+    given-names: Yuvraj
+  - family-names: Shaunik
+    given-names: Shivam
+  - family-names: Luthra
+    given-names: Meghna
+  - family-names: Garg
+    given-names: Aditya
+date-released: 2026
+identifiers:
+  - type: doi
+    value: "10.1201/9781042004607-45"

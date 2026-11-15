@@ -4,7 +4,7 @@ Research implementation for individual cattle identification from visual patch p
 
 This repository accompanies the publication:
 
-> Sharma, Yuvraj, Shaunik, Shivam, Luthra, Meghna, & Garg, Aditya. (2026). *Cattle Classification System Using Deep Learning*. https://doi.org/10.1201/9781042004607-45
+> Shaunik, Shivam, Sharma, Yuvraj, Luthra, Meghna, & Garg, Aditya. (2026). *Cattle Classification System Using Deep Learning*. https://doi.org/10.1201/9781042004607-45
 
 **This is a research reproduction repository, not a packaged production application.** The included Python file is an exported version of the supplied Colab notebook. It preserves the research workflow and should be reviewed and adapted before being run locally.
 
